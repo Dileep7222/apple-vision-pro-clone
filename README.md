@@ -30,7 +30,11 @@ This is a clone of the Apple Vision Pro website, built using **HTML, CSS, JavaSc
 3. Open `index.html` in your browser.
 
 ## Screenshots
-(Add some screenshots of your project here)
+![Screenshot (427)](https://github.com/user-attachments/assets/852310e1-d1b1-43b1-a634-51592c90bacd)
+![Screenshot (428)](https://github.com/user-attachments/assets/b0bb3d72-1729-4bae-a8a1-63cc28e4af69)
+![Screenshot (430)](https://github.com/user-attachments/assets/005ba3c9-5bb3-44d8-92a7-7a53dade757d)
+
+
 
 ## Deployment
 You can host this project using GitHub Pages, Netlify, or Vercel:
